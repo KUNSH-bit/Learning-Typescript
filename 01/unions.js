@@ -24,4 +24,5 @@ function getDbID(id) {
 const data = [1, 2, 3];
 const data2 = ['1', '2', '3'];
 const data3 = [1, '2', 3];
+let pi = 3.14;
 export {};
